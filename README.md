@@ -57,3 +57,6 @@
 
 ![2021053123244540 ](https://user-images.githubusercontent.com/112362703/190574258-e06e9546-d3a6-44dd-932f-9fb9cdc032d6.jpg)
 
+
+# my_cvrp.py
+根据实际问题的约束条件及数据，即串点数据表，重新修改了我的样例代码，得到实际问题的结果，后续还需要待修改！结果可见result.txt
